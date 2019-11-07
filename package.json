@@ -1,0 +1,19 @@
+{
+  "name": "fb-playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^7.2.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
